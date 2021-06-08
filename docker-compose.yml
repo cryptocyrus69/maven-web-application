@@ -8,4 +8,4 @@ services:
     networks:
     - mavenappbridge
 networks:
-  mavenappbridge:
+  mavenappbridge: te
